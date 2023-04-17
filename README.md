@@ -1,2 +1,2 @@
 # Simon_Game
-Simon says repeat my flashing LIGHTS and SOUNDS
+Website URL - https://utkarshtri03.github.io/simon-game/
